@@ -136,6 +136,13 @@ ENV/
 env.bak/
 venv.bak/
 
+# Directory
+DONE_LIST/
+CUSTOMER_LIST/
+PRODUCT_LIST/
+data/
+Log/
+
 # Spyder project settings
 .spyderproject
 .spyproject
